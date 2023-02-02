@@ -1,5 +1,19 @@
-👋 Hi, I’m @jordanbrewer509
+![302042905_3140440102840222_7723909581746053227_n](https://user-images.githubusercontent.com/114613634/216458167-6e7301cf-7733-4617-af2c-ae0a0a37a718.jpg)
+"Me and my girlfriend, tutor, inspiration, guru, coach, and mother to my child"
+
+👋 Hi, I’m Jordan Brewer
 - 👀 I’m interested in web development, software development, and audio engineering.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: Email at jordan.brewer509@gmail.com
+- 💭 Ask me anything about dance, jazz, or disco music
+- 🙋‍♂️ Fun Fact: I'm an huge fan of Masayoshi Takanaka
+- 🎼 I am an avid dance/electronic music producer
+
+- 📫 How to reach me: E-Mail at jordan.brewer509@gmail.com
+
+- Favorite Quotes -
+
+"There's no shame in not knowing an answer, so long as you have a desire to learn" - Cyrus, Octopath Traveler
+"He is his own master, but also his slave." -Riven, League of Legends
+"Quotes are for dumb people, who can't think of something intelligent to say on their own." -Bo Burnham
+
+![](https://komarev.com/ghpvc/?username=jordanbrewer509)
