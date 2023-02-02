@@ -12,8 +12,8 @@
 
 - Favorite Quotes -
 
-"There's no shame in not knowing an answer, so long as you have a desire to learn" - Cyrus, Octopath Traveler <br />
-"He is his own master, but also his slave." -Riven, League of Legends
-"Quotes are for dumb people, who can't think of something intelligent to say on their own." -Bo Burnham
+- "There's no shame in not knowing an answer, so long as you have a desire to learn" - Cyrus, Octopath Traveler <br />
+- "He is his own master, but also his slave." -Riven, League of Legends
+- "Quotes are for dumb people, who can't think of something intelligent to say on their own." -Bo Burnham
 
 ![](https://komarev.com/ghpvc/?username=jordanbrewer509)
