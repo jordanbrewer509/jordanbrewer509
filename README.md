@@ -19,9 +19,7 @@ Favorite Quotes
 
 Languages and Tools:
 
-![919827](https://user-images.githubusercontent.com/114613634/216464354-80ce9f40-17fb-46fa-9cf3-c524c26a055e.png) ![css-logo](https://user-images.githubusercontent.com/114613634/216464408-e750350a-a781-4865-81ee-68f10c1596a7.jpg) 
-![470-4707396_javascript-icon-html-css-js-icons](https://user-images.githubusercontent.com/114613634/216464417-5deec2af-c5f6-4332-85b4-bdd23b974254.jpg)
-![png-transparent-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-trademark-thumbnail](https://user-images.githubusercontent.com/114613634/216464424-10fcf613-5997-4f11-be70-3c88f19d3853.png)
+<i class="fa-brands fa-html5"></i>
 
 
 ![](https://komarev.com/ghpvc/?username=jordanbrewer509)
