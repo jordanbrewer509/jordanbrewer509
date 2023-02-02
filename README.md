@@ -19,6 +19,6 @@ Favorite Quotes
 
 Languages and Tools:
 
-<img src="https://user-images.githubusercontent.com/114613634/216470805-a1aeff44-9a92-45ce-9a96-7a4a9aab87c1.svg" height=5% width=5% /><img src="https://user-images.githubusercontent.com/114613634/216470700-f5ab9c8a-196a-473d-a60d-89dfe43b0e8a.svg" height=5% width=5% /><img src="https://user-images.githubusercontent.com/114613634/216470455-6ecfed80-1999-4e69-88aa-6cdb2ef41423.svg" height=5% width=5% /><img src="https://user-images.githubusercontent.com/114613634/216466624-e2cb5c1e-13f4-4b4d-9110-0135b07296ad.svg" height=5% width=5% />
+<img src="https://user-images.githubusercontent.com/114613634/216470805-a1aeff44-9a92-45ce-9a96-7a4a9aab87c1.svg" height=8% width=8% /><img src="https://user-images.githubusercontent.com/114613634/216470700-f5ab9c8a-196a-473d-a60d-89dfe43b0e8a.svg" height=8% width=8% /><img src="https://user-images.githubusercontent.com/114613634/216470455-6ecfed80-1999-4e69-88aa-6cdb2ef41423.svg" height=8% width=8% /><img src="https://user-images.githubusercontent.com/114613634/216466624-e2cb5c1e-13f4-4b4d-9110-0135b07296ad.svg" height=8% width=8% />
 
 ![](https://komarev.com/ghpvc/?username=jordanbrewer509)
