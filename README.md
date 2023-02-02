@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/114613634/216458167-6e7301cf-7733-4617-af2c-ae0a0a37a718.jpg" height=50% width=50% align=right />
-"Me and my girlfriend, tutor, inspiration, guru, coach, and mother to my child" <br /> <br />
+<img src="https://user-images.githubusercontent.com/114613634/216458167-6e7301cf-7733-4617-af2c-ae0a0a37a718.jpg" height=50% width=50% align=right title="Me and my girlfriend, tutor, inspiration, guru, coach, and mother to my child" />
+<br /> <br />
 
 👋 Hi, I’m Jordan Brewer
 - 👀 I’m interested in web development, software development, and audio engineering.
