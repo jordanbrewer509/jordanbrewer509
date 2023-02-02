@@ -19,7 +19,7 @@ Favorite Quotes
 
 Languages and Tools:
 
-<img src="https://user-images.githubusercontent.com/114613634/216465027-4e16b715-a89e-4a1b-8763-98ec468d689a.svg" height=5% width=5% /><img src="https://user-images.githubusercontent.com/114613634/216465522-afca2c24-697a-4dad-a320-76d44b5d2986.svg" height=5% width=5% /><img src="https://user-images.githubusercontent.com/114613634/216465685-49d1fe02-e446-4042-b807-01fa1ea3ade5.svg" height=5% width=5% /><img src="https://user-images.githubusercontent.com/114613634/216466046-fc31a0a1-4527-4c1f-8d06-f33ea893831f.png" height=5% width=5% />
+<img src="https://user-images.githubusercontent.com/114613634/216465027-4e16b715-a89e-4a1b-8763-98ec468d689a.svg" height=5% width=5% /><img src="https://user-images.githubusercontent.com/114613634/216465522-afca2c24-697a-4dad-a320-76d44b5d2986.svg" height=5% width=5% /><img src="https://user-images.githubusercontent.com/114613634/216465685-49d1fe02-e446-4042-b807-01fa1ea3ade5.svg" height=8% width=8% /><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height=5% width=5% />
 
 ![](https://komarev.com/ghpvc/?username=jordanbrewer509)
 
