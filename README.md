@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/114613634/216458167-6e7301cf-7733-4617-af2c-ae0a0a37a718.jpg" height=50% width=50% />
+<img src="https://user-images.githubusercontent.com/114613634/216458167-6e7301cf-7733-4617-af2c-ae0a0a37a718.jpg" height=50% width=50% position=right />
 "Me and my girlfriend, tutor, inspiration, guru, coach, and mother to my child"
 
 👋 Hi, I’m Jordan Brewer
