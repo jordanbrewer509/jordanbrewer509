@@ -19,6 +19,6 @@ Favorite Quotes
 
 Languages and Tools:
 
-![html5](https://user-images.githubusercontent.com/114613634/216465027-4e16b715-a89e-4a1b-8763-98ec468d689a.svg)
+<img src="https://user-images.githubusercontent.com/114613634/216465027-4e16b715-a89e-4a1b-8763-98ec468d689a.svg" height=5% width=5% />
 
 ![](https://komarev.com/ghpvc/?username=jordanbrewer509)
