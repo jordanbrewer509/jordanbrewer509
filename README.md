@@ -9,7 +9,7 @@
 - 🎼 I am an avid dance/electronic music producer
 
 - 📫 How to reach me: E-Mail at jordan.brewer509@gmail.com
-- 🎵 Music profile: <a href="soundcloud.com/zoxlei" />
+- 🎵 Music profile: [SoundCloud](https://www.soundcloud.com/zoxlei)
 
 Favorite Quotes
 
